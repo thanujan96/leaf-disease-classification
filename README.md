@@ -7,7 +7,7 @@
 ## Initial setup
 
 - Clone repository `git clone https://github.com/MexsonFernandes/leaf_dicease_classiffication`.
-- `cd leaf_dicease_classiffication`
+- `cd application`
 - Install required dependencies.
   - run `pip3 install -r requirements.txt`.
 - Add your email id and password in project/settings.py file.
